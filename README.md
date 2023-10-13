@@ -12,8 +12,8 @@ Progress can be tracked below:
 | 02  |               [Data Types](./02_Day_Data_Types/day02.md)               | :white_check_mark: |
 | 03  | [Booleans, Operators, Date](./03_Day_Booleans_Operators_Date/day03.md) | :white_check_mark: |
 | 04  |             [Conditionals](./04_Day_Conditionals/day04.md)             | :white_check_mark: |
-| 05  |                               [Arrays]()                               | :white_circle:     |
-| 06  |                               [Loops]()                                | :x:                |
+| 05  |                   [Arrays](./05_Day_Arrays/day05.md)                   | :white_check_mark: |
+| 06  |                               [Loops]()                                | :white_circle:     |
 | 07  |                             [Functions]()                              | :x:                |
 | 08  |                              [Objects]()                               | :x:                |
 | 09  |                       [Higher Order Functions]()                       | :x:                |
