@@ -986,7 +986,10 @@ for (const country of countries) {
     multipleWordCountries.push(country);
   }
 }
-console.log("Countries countaining two or more words: ", multipleWordCountries);
+console.log(
+  "\nCountries countaining two or more words: ",
+  multipleWordCountries
+);
 
 // 8.
 countries.reverse();
