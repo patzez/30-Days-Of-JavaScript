@@ -15,8 +15,8 @@ Progress can be tracked below:
 | 05  |                   [Arrays](./05_Day_Arrays/day05.md)                   | :white_check_mark: |
 | 06  |                    [Loops](./06_Day_Loops/day06.md)                    | :white_check_mark: |
 | 07  |                [Functions](./07_Day_Functions/day07.md)                | :white_check_mark: |
-| 08  |                              [Objects]()                               | :white_circle:     |
-| 09  |                       [Higher Order Functions]()                       | :x:                |
+| 08  |                  [Objects](./08_Day_Objects/day08.md)                  | :white_check_mark: |
+| 09  |                       [Higher Order Functions]()                       | :white_circle:     |
 | 10  |                           [Sets and Maps]()                            | :x:                |
 | 11  |                    [Destructuring and Spreading]()                     | :x:                |
 | 12  |                        [Regular Expressions]()                         | :x:                |
