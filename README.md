@@ -17,8 +17,8 @@ Progress can be tracked below:
 | 07  |                [Functions](./07_Day_Functions/day07.md)                | :white_check_mark: |
 | 08  |                  [Objects](./08_Day_Objects/day08.md)                  | :white_check_mark: |
 | 09  |   [Higher Order Functions](./09_Day_Higher_Order_Functions/day09.md)   | :white_check_mark: |
-| 10  |                           [Sets and Maps]()                            | :white_circle:     |
-| 11  |                    [Destructuring and Spreading]()                     | :x:                |
+| 10  |            [Sets and Maps](./10_Day_Sets_And_Maps/day10.md)            | :white_check_mark: |
+| 11  |                    [Destructuring and Spreading]()                     | :white_circle:     |
 | 12  |                        [Regular Expressions]()                         | :x:                |
 | 13  |                       [Console Object Methods]()                       | :x:                |
 | 14  |                           [Error Handling]()                           | :x:                |
