@@ -21,8 +21,8 @@ Progress can be tracked below:
 | 11  | [Destructuring and Spreading](./11_Day_Destructuring_And_Spreading/day11.md) | :white_check_mark: |
 | 12  |         [Regular Expressions](./12_Day_Regular_Expressions/day12.md)         | :white_check_mark: |
 | 13  |        [Console Object Methods](./13_Console_Object_Methods/day13.md)        | :white_check_mark: |
-| 14  |                              [Error Handling]()                              | :white_circle:     |
-| 15  |                                 [Classes]()                                  | :x:                |
+| 14  |              [Error Handling](./14_Day_Error_Handling/day14.md)              | :white_check_mark: |
+| 15  |                                 [Classes]()                                  | :white_circle:     |
 | 16  |                                   [JSON]()                                   | :x:                |
 | 17  |                               [Web Storages]()                               | :x:                |
 | 18  |                                 [Promises]()                                 | :x:                |
