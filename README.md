@@ -22,8 +22,8 @@ Progress can be tracked below:
 | 12  |         [Regular Expressions](./12_Day_Regular_Expressions/day12.md)         | :white_check_mark: |
 | 13  |      [Console Object Methods](./13_Day_Console_Object_Methods/day13.md)      | :white_check_mark: |
 | 14  |              [Error Handling](./14_Day_Error_Handling/day14.md)              | :white_check_mark: |
-| 15  |                                 [Classes]()                                  | :white_circle:     |
-| 16  |                                   [JSON]()                                   | :x:                |
+| 15  |                     [Classes](./15_Day_Classes/day15.md)                     | :white_check_mark: |
+| 16  |                                   [JSON]()                                   | :white_circle:     |
 | 17  |                               [Web Storages]()                               | :x:                |
 | 18  |                                 [Promises]()                                 | :x:                |
 | 19  |                                 [Closure]()                                  | :x:                |
