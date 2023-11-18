@@ -23,8 +23,8 @@ Progress can be tracked below:
 | 13  |      [Console Object Methods](./13_Day_Console_Object_Methods/day13.md)      | :white_check_mark: |
 | 14  |              [Error Handling](./14_Day_Error_Handling/day14.md)              | :white_check_mark: |
 | 15  |                     [Classes](./15_Day_Classes/day15.md)                     | :white_check_mark: |
-| 16  |                                   [JSON]()                                   | :white_circle:     |
-| 17  |                               [Web Storages]()                               | :x:                |
+| 16  |                        [JSON](./16_Day_JSON/day16.md)                        | :white_check_mark: |
+| 17  |                               [Web Storages]()                               | :white_circle:     |
 | 18  |                                 [Promises]()                                 | :x:                |
 | 19  |                                 [Closure]()                                  | :x:                |
 | 20  |                            [Writing Clean Code]()                            | :x:                |
