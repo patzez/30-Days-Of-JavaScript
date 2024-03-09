@@ -26,8 +26,8 @@ Progress can be tracked below:
 | 16  |                        [JSON](./16_Day_JSON/day16.md)                        | :white_check_mark: |
 | 17  |                [Web Storages](./17_Day_Web_Storages/day17.md)                | :white_check_mark: |
 | 18  |                    [Promises](./18_Day_Promises/day18.md)                    | :white_check_mark: |
-| 19  |                                 [Closure]()                                  | :white_circle:     |
-| 20  |                            [Writing Clean Code]()                            | :x:                |
+| 19  |                    [Closure](./19_Day_Closures/day19.md)                     | :white_check_mark: |
+| 20  |                            [Writing Clean Code]()                            | :white_circle:     |
 | 21  |                                   [DOM]()                                    | :x:                |
 | 22  |                         [Manipulating DOM Object]()                          | :x:                |
 | 23  |                             [Event Listeners]()                              | :x:                |
