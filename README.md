@@ -29,7 +29,7 @@ Progress can be tracked below:
 | 19  |                    [Closure](./19_Day_Closures/day19.md)                     | :white_check_mark: |
 | 20  |         [Writing Clean Code](./20_Day_Writing_Clean_Codes/day20.md)          | :white_check_mark: |
 | 21  |                         [DOM](./21_Day_DOM/day21.md)                         | :white_check_mark: |
-| 22  |                         [Manipulating DOM Object]()                          | :white_circle:     |
+| 22  |   [Manipulating DOM Object](./22_Day_Manipulating%20_DOM_Object/day22.md)    | :white_circle:     |
 | 23  |                             [Event Listeners]()                              | :x:                |
 | 24  |                        [Mini Project: Solar System]()                        | :x:                |
 | 25  |            [Mini Project: World Countries Data Visualization 1]()            | :x:                |
