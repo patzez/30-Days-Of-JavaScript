@@ -16,4 +16,10 @@ Solution in project_1 folder
 
 ## Exercises: Level 2
 
+#### 1. Use the countries array to display all the countries.See the design.
+
+```
+Solution in project_1 folder
+```
+
 ## Exercises: Level 3
